@@ -53,9 +53,8 @@ This project was built using the following technologies:
 
 👤 **Javokhir Makhkamov**
 
-- GitHub: [SarvarKh](https://github.com/javokhir1727)
-- Facebook: [KhalimovSarvar](https://twitter.com/javokhir.makhkamov)
-- LinkedIn: [Sarvar-Khalimov](https://www.linkedin.com/in/sarvar-khalimov/)
+- GitHub: [javokhir1727](https://github.com/javokhir1727)
+- Facebook: [JavokhirMakhkamov](https://twitter.com/javokhir.makhkamov)
 
 
 ## Contributing
