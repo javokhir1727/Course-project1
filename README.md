@@ -16,8 +16,8 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div align="center">
-  <img src="image/Console_1.png?raw=true" width="90%" height="auto"/>
-  <img src="image/Console_2.png?raw=true" width="90%" height="auto"/>
+  <img src="image/Console11.png?raw=true" width="90%" height="auto"/>
+  <img src="image/Console22.png?raw=true" width="90%" height="auto"/>
 </div>
 </div>
 
